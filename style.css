@@ -7,6 +7,7 @@ body {
 }
 
 .main {
+  text-align: center;
   background-color: black;
   margin: auto;
   width: 500px;
@@ -34,4 +35,10 @@ a {
 
 a:hover {
   font-weight: bold;
+}
+
+h1 {
+  font-size: 30px;
+  margin: 0px;
+  padding: 0px;
 }
